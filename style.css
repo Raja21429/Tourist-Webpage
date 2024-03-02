@@ -715,28 +715,28 @@ body {
     border-radius: 50% 50%;
  } */
 .ca1 {
-    position: absolute;
+    position: relative;
     left: 130px;
     top: 190px;
 
 }
 
 .ca2 {
-    position: absolute;
+    position: relative;
     left: 390px;
     bottom: 73px;
 
 }
 
 .ca3 {
-    position: absolute;
+    position: relative;
     left: 650px;
     bottom: 335px;
 
 }
 
 .ca4 {
-    position: absolute;
+    position: relative;
     left: 910px;
     bottom: 600px;
 }
